@@ -4,5 +4,5 @@ um site utilizando HTML, CSS, Javascript, usando os meus conhecimentos em DOM e 
 
 <h2> modelo do site rodando </h2> 
 <p align="center" >
-     <img width="600" heigth="600" src="assets/Storerunning.png">
+     <img width="600" heigth="600" src="assets/StoreRunning.png">
 </p>
