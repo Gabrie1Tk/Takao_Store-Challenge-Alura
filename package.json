@@ -1,0 +1,12 @@
+{
+  "name": "takao-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "https://6695a2d80312447373bfaac8.mockapi.io/api/v1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
